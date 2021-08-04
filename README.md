@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meii11[!meii.me]
 - 👀 I’m interested in C/Python, maybe C++ in the future.
 - 🌱 I’m currently learning LeetCode.
-- 💞️ I work as an intern in LDS, USTC.
+- 💞️ I work as an intern in LDS, USTC and Baidu.
 - 📫 How to reach me: meii11cao@gmail.com
 
 <!---
